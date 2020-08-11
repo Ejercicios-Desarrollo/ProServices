@@ -1,0 +1,12 @@
+ SET FOREIGN_KEY_CHECKS = 0;
+ TRUNCATE consumidor;
+ TRUNCATE disponibilidad;
+ TRUNCATE email;
+ TRUNCATE foto_servicio_ofrecido;
+ TRUNCATE prestador;
+ TRUNCATE servicio_ofrecido;
+ TRUNCATE trabajo;
+ TRUNCATE telefono;
+ TRUNCATE trabajo_tarea;
+ TRUNCATE usuario;
+ SET FOREIGN_KEY_CHECKS = 1;
